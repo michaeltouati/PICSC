@@ -6,7 +6,7 @@ mtouati@clpu.es
 The script needs the following Python packages :
 
 - tkinter
-- PIL
+- pillow (with imagetk module)
 
 In order to use it, download or clone it and just type :
 
