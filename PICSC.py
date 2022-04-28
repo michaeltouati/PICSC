@@ -5,7 +5,7 @@
 import tkinter
 from tkinter import *
 from tkinter import ttk
-# from PIL import ImageTk, Image
+from PIL import ImageTk, Image
 import os
 
 def estimate(*args):
