@@ -1,6 +1,5 @@
 # Particle-In-Cell (PIC) Simulation Cost Estimator 
-# written by Dr Michael J TOUATI - 06/28/2019 
-# mtouati@clpu.es
+# written by Dr Michael J TOUATI
 
 import tkinter
 from tkinter import *
