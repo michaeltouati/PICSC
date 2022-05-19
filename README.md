@@ -1,7 +1,6 @@
 # PICSC
 Particle-In-Cell (PIC) Simulation Cost estimator
-written by Dr Michael J TOUATI - 06/28/2019 - 
-mtouati@clpu.es
+written by Dr Michael J TOUATI 
 
 The script needs the following Python packages :
 
